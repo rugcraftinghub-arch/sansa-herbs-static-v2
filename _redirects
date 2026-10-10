@@ -1,0 +1,91 @@
+# Sansa Herbs Cloudflare Pages redirects
+# Generated from 51 active Rank Math redirects + 31 Pretty Links
+# Keep this file named exactly: _redirects
+# Place it in the root of the static site before deploying to Cloudflare Pages.
+# Pretty Links click tracking will not continue after WordPress is removed.
+
+# Rank Math redirects
+/how-to-grow-calendula-from-seed-in-zone-13-challenges-solutions/ https://sansaherbs.com/how-to-grow-calendula-from-seed/ 301
+/medicinal-herbs/ https://sansaherbs.com/medicinal-herb-garden-2/ 301
+/easy-beginner-guide-to-making-calendula-salves-8-healing-recipes-from-your-garden/ https://sansaherbs.com/guide-to-making-calendula-salve-recipe/ 301
+/best-tall-raised-garden-beds/ https://sansaherbs.com/best-raised-garden-beds-designs/ 301
+/companion-planting-guide-creating-your-medicinal-herb-garden/ https://sansaherbs.com/medicinal-herb-companion-planting-guide/ 301
+/medicinal-garden-kit-landing-page https://sansaherbs.com/ 301
+/feverfew-for-migraines-can-this-herb-help/ https://sansaherbs.com/feverfew-for-migraines/ 301
+/herbal-remedies-blog/ https://sansaherbs.com/blog/ 301
+/recommended-tools-for-herb-garden/ https://sansaherbs.com/essential-herb-gardening-tools/ 301
+/benefits-of-moringa/grow-moringa-collective-membership/ https://sansaherbs.com/benefits-of-moringa/moringa-affiliate-program/ 301
+/benefits-of-moringa/how-to-start-a-moringa-business/ https://sansaherbs.com/benefits-of-moringa/moringa-affiliate-program/ 301
+/benefits-of-moringa/moringa-tree-starter-kit/ https://sansaherbs.com/benefits-of-moringa/moringa-affiliate-program/ 301
+/affiliate-disclosure/-page/ https://sansaherbs.com/affiliate-disclosure-page/ 301
+/growing-moringa-from-seed/ https://sansaherbs.com/growing-moringa-and-sourcing-safety-guide/ 301
+/benefits-of-moringa/ https://sansaherbs.com/moringa-oleifera-benefits-and-safety/ 301
+/cold-pressed-moringa-oil-benefits/ https://sansaherbs.com/moringa-oil-benefits-complete-guide/ 301
+/benefits-of-consuming-moringa-oil/ https://sansaherbs.com/moringa-oil-benefits-complete-guide/ 301
+/benefits-of-moringa-oil-for-skin/ https://sansaherbs.com/moringa-oil-benefits-complete-guide/ 301
+/cold-pressed-moringa-oil-for-hair/ https://sansaherbs.com/moringa-oil-benefits-complete-guide/ 301
+/moringa-oil-for-face-benefits/ https://sansaherbs.com/moringa-oil-benefits-complete-guide/ 301
+/how-to-make-moringa-powder/ https://sansaherbs.com/moringa-powder-uses-and-recipes-dosages/ 301
+/moringa-powder-menopause-support/ https://sansaherbs.com/moringa-benefits-for-womens-health/ 301
+/moringa-tea-benefits/ https://sansaherbs.com/moringa-powder-uses-and-recipes-dosages/ 301
+/moringa-powder-smoothie-recipes/ https://sansaherbs.com/moringa-powder-uses-and-recipes-dosages/ 301
+/how-to-make-calendula-oil/ https://sansaherbs.com/guide-to-making-calendula-salve-recipe/ 301
+/diy-calendula-bath-soak-recipe/ https://sansaherbs.com/guide-to-making-calendula-salve-recipe/ 301
+/ways-to-use-calendula/ https://sansaherbs.com/guide-to-making-calendula-salve-recipe/ 301
+/the-medicinal-uses-of-yarrow-a-natural-remedy/ https://sansaherbs.com/medicinal-uses-of-yarrow/ 301
+/growing-yarrow-from-seed-container-and-garden-guide/ https://sansaherbs.com/medicinal-uses-of-yarrow/ 301
+/yarrow-salve-benefits/ https://sansaherbs.com/medicinal-uses-of-yarrow/ 301
+/yarrow-tincture-benefits-recipes/ https://sansaherbs.com/medicinal-uses-of-yarrow/ 301
+/marshmallow-from-marshmallow-root/ https://sansaherbs.com/marshmallow-root-benefits/ 301
+/growing-marshmallow-from-seed/ https://sansaherbs.com/marshmallow-root-benefits/ 301
+/how-to-make-echinacea-tea/ https://sansaherbs.com/echinacea-diy-remedies-for-beginners/ 301
+/echinacea-tincture/ https://sansaherbs.com/echinacea-diy-remedies-for-beginners/ 301
+/benefits-of-echinacea-and-goldenseal/ https://sansaherbs.com/echinacea-diy-remedies-for-beginners/ 301
+/different-types-of-echinacea-and-their-uses/ https://sansaherbs.com/echinacea-diy-remedies-for-beginners/ 301
+/how-to-transplant-echinacea-seedlings/ https://sansaherbs.com/common-echinacea-growing-mistakes/ 301
+/winterizing-echinacea-plants/ https://sansaherbs.com/common-echinacea-growing-mistakes/ 301
+/benefits-of-moringa/moringa-affiliate-program/ https://sansaherbs.com/moringa-affiliate-program/ 301
+/moringa-oleifera-benefits-and-safety/ https://sansaherbs.com/moringa-seeds-vs-leaves-benefits/ 301
+/moringa-seeds/ https://sansaherbs.com/moringa-seeds-vs-leaves-benefits/ 301
+/moringa-capsules-vs-powder-cost-comparison/ https://sansaherbs.com/moringa-seeds-vs-leaves-benefits/ 301
+/moringa-powder-uses-and-recipes-dosages/ https://sansaherbs.com/moringa-seeds-vs-leaves-benefits/ 301
+/common-echinacea-growing-mistakes/ https://sansaherbs.com/growing-echinacea-from-seed/ 301
+/echinacea-companion-plants/ https://sansaherbs.com/growing-echinacea-from-seed/ 301
+/echinacea-diy-remedies-for-beginners/ https://sansaherbs.com/growing-echinacea-from-seed/ 301
+/backyard-pharmacy/ https://sansaherbs.com/growing-echinacea-from-seed/ 301
+/category/garden-tools/ https://sansaherbs.com/category/apothecary-tools/ 301
+/marshmallow-root-benefits/ https://sansaherbs.com/marshmallow-root-for-sore-throat/ 301
+/medicinal-herb-garden-tools/ https://sansaherbs.com/essential-herb-gardening-tools/ 301
+
+# Pretty Links / affiliate redirects
+/grow-moringa https://growmoringa.shop/?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/apelian-garden-kit https://medicinalseedkit.com/kit/%23aff=sls2014 307
+/lifetime-membership https://growmoringa.shop/products/lifetime-membership?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/business-membership https://growmoringa.shop/products/business-membership?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 301
+/moringa-tree-kit https://growmoringa.shop/products/moringa-microgreens-kit?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/moringa-oil https://allmoringatree.com/products/organic-moringa-oil?sca_ref=8872509.izmzS3FA2U 307
+/moringa-mint-tea https://growmoringa.shop/products/moringa-mint-tea-loose?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/moringa-capsules https://growmoringa.shop/products/moringa-leaf-powder-supplements?sca_ref=10265598.vYF7iC1I8KxsH4&sca_source=youtube&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/linktree-yt https://linktr.ee/sansaherbs?utm_source=youtube&utm_medium=video&utm_campaign=face_mask 301
+/growmoringa-yt https://growmoringa.shop/?sca_ref=10265598.vYF7iC1I8KxsH4&sca_source=youtube&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/moringa-magic-yt https://www.magicofmoringa.co/#aff=sls2014 302
+/go/moringa-seeds https://growmoringa.shop/products/moringa-seeds?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/bio-stimulant https://growmoringa.shop/products/biobox?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/go/moringa-powder https://growmoringa.shop/products/moringa-powder-usa?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/go/moringa-tea https://growmoringa.shop/products/moringa-loose-leaf?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/elevenlabs https://try.elevenlabs.io/bkintscvudmp 301
+/meta-moringa https://growmoringa.shop/?ref=sansaherbs&utm_source=facebook&utm_medium=paid&utm_campaign=moringa_capsules_july 301
+/herb-affair https://herbaffair.myshopify.com/?rfsn=8723495.0e85b7 301
+/pure-moringa https://mdrnremedy.com/#aff=sls2014&ds24tr=blog 307
+/moringa-seed-capsules https://growmoringa.shop/products/moringa-whole-seed-powder-supplements?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/kit https://www.digistore24.com/redir/379812/sls2014/ 307
+/moringa-guide https://mdrnremedy.com/#aff=sls2014&ds24tr=pdf_guide 307
+/waitlist https://www.notion.so/Sansa-Herbs-Moringa-Waitlist-320b8ecb645e801d879dc9b3021c2d98?source=copy_link 307
+/go/shiningbush-kit https://medicinalseedkit.com/kit/#aff=sls2014 307
+/amazon-moringa-tea-yt https://amzlink.to/az0dkfroMGgqX 307
+/amazon-moringa-tea https://amzlink.to/az0dkfroMGgqX 307
+/herbal-prep-tools https://amzlink.to/az0RCkmpPn7Gw 307
+/diy-moringa-tools https://amzlink.to/az0cpaOZG379h 307
+/grow-moringa-affiliate https://growmoringa.com/affiliates?sca_ref=10265598.vYF7iC1I8KxsH4&utm_source=affiliate&utm_medium=media&utm_campaign=new-login&utm_term=Earn-Commissions&utm_content=Cash-Back 307
+/moringa-magic https://www.magicofmoringa.co/#aff=sls2014 302
+/herb-gardening-tools https://sansaherbs.com/essential-herb-gardening-tools/ 301

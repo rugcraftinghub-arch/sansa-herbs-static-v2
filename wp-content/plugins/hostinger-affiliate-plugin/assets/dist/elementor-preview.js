@@ -1,0 +1,1 @@
+!function(){"use strict";document.addEventListener("click",function(e){var n=e.target.closest(".hostinger-affiliate-block-admin-note a[href]");n&&(e.preventDefault(),window.open(n.href,"_blank","noopener"))})}();

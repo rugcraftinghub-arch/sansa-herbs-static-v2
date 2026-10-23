@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/uncategorized/</loc>
+		<loc>https://sansaherbs.com/uncategorized/</loc>
 		<lastmod>2025-12-31T05:58:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/growing-guides/</loc>
+		<loc>https://sansaherbs.com/growing-guides/</loc>
 		<lastmod>2026-10-09T15:12:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/island-materia-medica/</loc>
+		<loc>https://sansaherbs.com/island-materia-medica/</loc>
 		<lastmod>2026-10-09T05:07:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/herb-gardening/</loc>
+		<loc>https://sansaherbs.com/herb-gardening/</loc>
 		<lastmod>2026-10-09T15:12:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/shopping/</loc>
+		<loc>https://sansaherbs.com/shopping/</loc>
 		<lastmod>2026-10-04T11:39:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/herbal-gardens/</loc>
+		<loc>https://sansaherbs.com/herbal-gardens/</loc>
 		<lastmod>2026-04-02T14:58:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/gardening/</loc>
+		<loc>https://sansaherbs.com/gardening/</loc>
 		<lastmod>2026-10-09T15:12:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/how-to-diy/</loc>
+		<loc>https://sansaherbs.com/how-to-diy/</loc>
 		<lastmod>2026-10-09T13:48:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/moringa/</loc>
+		<loc>https://sansaherbs.com/moringa/</loc>
 		<lastmod>2026-10-05T23:11:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tropical-garden-traditions/</loc>
+		<loc>https://sansaherbs.com/tropical-garden-traditions/</loc>
 		<lastmod>2026-10-09T15:12:11+00:00</lastmod>
 	</url>
 </urlset>
